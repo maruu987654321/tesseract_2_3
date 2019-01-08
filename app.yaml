@@ -1,4 +1,4 @@
-runtime: custom
+runtime: python37
 env: flex
 runtime_config:
   # You can also specify 2 for Python 2.7
